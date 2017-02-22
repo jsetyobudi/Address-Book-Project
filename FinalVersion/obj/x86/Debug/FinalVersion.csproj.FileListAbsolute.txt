@@ -1,0 +1,16 @@
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\FinalVersion.exe.config
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\FinalVersion.exe
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\FinalVersion.pdb
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\EntityFramework.dll
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\nunit.framework.dll
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\EntityFramework.xml
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\nunit.framework.xml
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\obj\x86\Debug\FinalVersion.exe
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\obj\x86\Debug\FinalVersion.pdb
+C:\Users\Johan\documents\visual studio 2015\Projects\FinalVersion\FinalVersion\obj\x86\Debug\FinalVersion.csprojResolveAssemblyReference.cache
